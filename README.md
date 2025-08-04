@@ -1,16 +1,33 @@
-## Hi there 👋
+# Hello World 👋😊
 
-<!--
-**larissacardosor/larissacardosor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de **Engenharia de Software**  
+📍 Rio de Janeiro, Brasil  
+🎂 26 anos  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💡 Sobre mim
+
+Iniciado meu caminho no mundo da tecnologia, estou cursando Engenharia de Software e aprendendo mais sobre o mundo Front-End.
+
+Quando não estou estudando, você provavelmente vai me encontrar curtindo uma praia, jogando algo com os amigos🎮 ou escutando/fazendo música 🎸😅
+
+---
+
+## 🔧 Tecnologias e Ferramentas que estou aprendendo:
+
+- HTML, CSS e JavaScript  
+- Git e GitHub  
+- Lógica de Programação  
+- Desenvolvimento Web  
+
+## Sobre Projetos
+
+Estou desenvolvendo projetos para colocar em prática tudo que estou aprendendo 👩‍💻
+
+## Redes Sociais
+
+<a href="www.linkedin.com/in/larissa-cardoso-reis/" target="_blank">
+  <img src="https://img.shields.io/badge/-LinkedIn-%23007785?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"
+</a>
+
