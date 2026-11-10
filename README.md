@@ -2,7 +2,7 @@
 
 🎓 Estudante de **Engenharia de Software**  
 📍 Rio de Janeiro, Brasil  
-🎂 26 anos  
+🎂 28 anos  
 
 ---
 
